@@ -1,10 +1,8 @@
-package test;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import test.utils.Driver;
-import test.utils.TechGlobalUtil;
+import utils.Driver;
+import utils.TechGlobalUtil;
 
 public class _06_LocatorsLinkText_partialLinkText {
     public static void main(String[] args) {

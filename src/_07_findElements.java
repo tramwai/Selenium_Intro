@@ -1,10 +1,8 @@
-package test;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import test.utils.Driver;
-import test.utils.TechGlobalUtil;
+import utils.Driver;
+import utils.TechGlobalUtil;
 
 import java.util.List;
 
