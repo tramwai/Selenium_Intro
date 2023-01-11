@@ -34,9 +34,11 @@ public class Recap_02_Validate_Google {
         searchInput.sendKeys("Software Engineer in Test");
         searchButton.click();
 
-        if(driver.findElement(By.xpath("(//div[@class='yuRUbf']//h3)[1]")).getText().contains("Software Engineer in Test"))
-            System.out.println("PASSED");
-        else System.out.println("FAILED");
+
+            if(driver.findElement(By.xpath("/html/body/div[7]/div/div[11]/div/div[2]/div[2]/div/div/div[1]/div/block-component/div/div[1]/div/div/div/div/div[1]/div/div/div/div/div[2]/div/div/div[1]/a/h3")).getText().contains("Software Engineer in Test"))
+                System.out.println("PASSED");
+            else System.out.println("FAILED");
+
         Driver.quitDriver();
     }
 }

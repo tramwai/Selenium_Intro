@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c977850-9d7d-4ee6-8e3a-30add135d6fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recap_01__Validate_Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recap_02_Validate_Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_SendKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_getText_getAttribute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recap_02_Validate_Google.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recap_02_Validate_Google.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment01_Facebook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recap_01__Validate_Address">
+  <component name="RunManager" selected="Application._08_SendKeys">
+    <configuration name="Assignment01_Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment01_Facebook" />
+      <module name="initial_selenium_project5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Recap_01__Validate_Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recap_01__Validate_Address" />
       <module name="initial_selenium_project5" />
@@ -66,46 +75,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFacebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestFacebook" />
+    <configuration name="_08_SendKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_SendKeys" />
       <module name="initial_selenium_project5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_Locators_tagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_Locators_tagName" />
+    <configuration name="_09_getText_getAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_getText_getAttribute" />
       <module name="initial_selenium_project5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_LocatorsLinkText_partialLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_LocatorsLinkText_partialLinkText" />
-      <module name="initial_selenium_project5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recap_01__Validate_Address" />
+        <item itemvalue="Application._08_SendKeys" />
         <item itemvalue="Application.Recap_02_Validate_Google" />
-        <item itemvalue="Application.TestFacebook" />
-        <item itemvalue="Application._06_LocatorsLinkText_partialLinkText" />
-        <item itemvalue="Application._05_Locators_tagName" />
+        <item itemvalue="Application._09_getText_getAttribute" />
+        <item itemvalue="Application.Assignment01_Facebook" />
+        <item itemvalue="Application.Recap_01__Validate_Address" />
       </list>
     </recent_temporary>
   </component>
